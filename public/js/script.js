@@ -1,5 +1,3 @@
-window.alert("Bem-vindo a Calculadora Online! Descubra sua média e se foi aprovado :) ou não :(");
-
 function calculoMedia() {
     let nota1 = parseInt(document.getElementById('nota1').value);
     let nota2 = parseInt(document.getElementById('nota2').value);

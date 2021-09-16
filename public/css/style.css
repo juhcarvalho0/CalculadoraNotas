@@ -1,0 +1,64 @@
+body {
+font-family: 'Roboto Mono',monospace;
+background-color: #000000;
+}
+  
+.container {
+text-align: center;
+padding: 20px;
+height: 85vh;
+background-image: url(../imagens/qdescolar.png);
+background-repeat: no-repeat;
+background-size: 50%;
+background-position: center;
+background-position-y: 25vh;
+
+}
+
+.page-title {
+color:#ffffff;
+margin: 0 0 5px;
+}
+
+.page-subtitle {
+color:#ffffff;
+margin-top: 5px;
+}
+
+.page-logo {
+width: 200px;
+}
+
+.alura-logo {
+width: 40px;
+position: absolute;
+top: 10px;
+right: 10px;
+}
+
+.div-form{
+padding: 15px;
+position: absolute;
+top: 50vh;
+left: 64vh;
+font-family: 'Schoolbell', cursive;
+}
+
+button{
+    border: 2px solid white;
+    border-radius: 3px;
+    margin-left: 2px;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.form{
+color: white;
+align-items: center;
+}
+
+footer{
+color: white;
+text-align: center;
+}

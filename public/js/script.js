@@ -13,5 +13,10 @@ function calculoMedia() {
     }
 }
 
+function limparResultado() {
+    document.getElementById("nota1").value = "";
+    document.getElementById("nota2").value = "";
+    textomedia.innerText = "";
+}
 
 

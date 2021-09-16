@@ -11,7 +11,7 @@ background-image: url(../imagens/qdescolar.png);
 background-repeat: no-repeat;
 background-size: 50%;
 background-position: center;
-background-position-y: 25vh;
+background-position-y: 29vh;
 
 }
 
@@ -51,6 +51,11 @@ button{
 }
 button:hover{
     cursor: pointer;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
 }
 
 .form{
